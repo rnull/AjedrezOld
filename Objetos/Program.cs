@@ -10,6 +10,10 @@ namespace Objetos
     {
         static void Main(string[] args)
         {
+            for (int a = 0; a <= 123454; a++)
+            {//Ciclado del programa
+                for (int k = 0; k <= 5342312; k++)
+                {
                     // Modificar coordenadas A-H && 1-8
 
                     Console.Write("Escribe tus coordenas [fila] [columna]:  ");
@@ -54,17 +58,15 @@ namespace Objetos
                 "$$$$","$$$$","$$$$","$$$$"};
 
                     temp.contenido = nuevoContenido;
-                    renglones[cf1 -1].SetCasilla(temp, cc1 -1);
+                    renglones[cf1 - 1].SetCasilla(temp, cc1 - 1);
 
                     Console.WriteLine("\n\n\n");
                     for (int i = 0; i < 8; i++)
                     {
                         renglones[i].PintaRenglon();
                     }
-
-
-                    Console.Read();
                 }
             }
         }
-
+    }
+}
