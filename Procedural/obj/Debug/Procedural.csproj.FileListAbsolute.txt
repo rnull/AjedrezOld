@@ -4,3 +4,9 @@ C:\Users\Roberto\UGM\Programas\TableroAjedrez\Procedural\bin\Debug\Procedural.pd
 C:\Users\Roberto\UGM\Programas\TableroAjedrez\Procedural\obj\Debug\Procedural.csprojResolveAssemblyReference.cache
 C:\Users\Roberto\UGM\Programas\TableroAjedrez\Procedural\obj\Debug\Procedural.exe
 C:\Users\Roberto\UGM\Programas\TableroAjedrez\Procedural\obj\Debug\Procedural.pdb
+C:\Users\manolo\Documents\GitHub\Ajedrez-1\Procedural\bin\Debug\Procedural.exe.config
+C:\Users\manolo\Documents\GitHub\Ajedrez-1\Procedural\obj\Debug\Procedural.exe
+C:\Users\manolo\Documents\GitHub\Ajedrez-1\Procedural\obj\Debug\Procedural.pdb
+C:\Users\manolo\Documents\GitHub\Ajedrez-1\Procedural\bin\Debug\Procedural.exe
+C:\Users\manolo\Documents\GitHub\Ajedrez-1\Procedural\bin\Debug\Procedural.pdb
+C:\Users\manolo\Documents\GitHub\Ajedrez-1\Procedural\obj\Debug\Procedural.csprojResolveAssemblyReference.cache
