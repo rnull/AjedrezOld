@@ -1,0 +1,6 @@
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\ReglasAjedrez\bin\Debug\ReglasAjedrez.dll
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\ReglasAjedrez\bin\Debug\ReglasAjedrez.pdb
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\ReglasAjedrez\bin\Debug\ReglasAjedrez.dll.CodeAnalysisLog.xml
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\ReglasAjedrez\bin\Debug\ReglasAjedrez.dll.lastcodeanalysissucceeded
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\ReglasAjedrez\obj\Debug\ReglasAjedrez.dll
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\ReglasAjedrez\obj\Debug\ReglasAjedrez.pdb
