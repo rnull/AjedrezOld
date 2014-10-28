@@ -24,16 +24,21 @@ namespace Objetos
                     int cf1 = 0;
 
                     if (cf == 'A') { cf1 = 8; }
-                    if (cf == 'a') { cf1 = 8; }
-                    if (cf == 'B') { cf1 = 7; }
-                    if (cf == 'b') { cf1 = 7; }
-                    if (cf == 'C') { cf1 = 6; }
-                    if (cf == 'c') { cf1 = 6; }
-                    if (cf == 'D') { cf1 = 5; }
-                    if (cf == 'E') { cf1 = 4; }
-                    if (cf == 'F') { cf1 = 3; }
-                    if (cf == 'G') { cf1 = 2; }
-                    if (cf == 'H') { cf1 = 1; }
+                    else if (cf == 'a') { cf1 = 8; }
+                    else if (cf == 'B') { cf1 = 7; }
+                    else if (cf == 'b') { cf1 = 7; }
+                    else if (cf == 'C') { cf1 = 6; }
+                    else if (cf == 'c') { cf1 = 6; }
+                    else if (cf == 'D') { cf1 = 5; }
+                    else if (cf == 'E') { cf1 = 4; }
+                    else if (cf == 'F') { cf1 = 3; }
+                    else if (cf == 'G') { cf1 = 2; }
+                    else if (cf == 'H') { cf1 = 1; }
+                    else
+                    {
+                        Console.WriteLine("Movimiento no permitido");
+                        cf1 = 0;
+                    }
 
                     int cc1 = int.Parse(cc.ToString());
 
@@ -57,13 +62,16 @@ namespace Objetos
                     string[] nuevoContenido = new string[4]{
                 "$$$$","$$$$","$$$$","$$$$"};
 
-                    temp.contenido = nuevoContenido;
-                    renglones[cf1 - 1].SetCasilla(temp, cc1 - 1);
-
-                    Console.WriteLine("\n\n\n");
-                    for (int i = 0; i < 8; i++)
+                    if (cf1 > 0)//Condición para denegar el movimiento si no esta dentro de los parametros
                     {
-                        renglones[i].PintaRenglon();
+                        temp.contenido = nuevoContenido;
+                        renglones[cf1 - 1].SetCasilla(temp, cc1 - 1);
+
+                        Console.WriteLine("\n\n\n");
+                        for (int i = 0; i < 8; i++)
+                        {
+                            renglones[i].PintaRenglon();
+                        }
                     }
                 }
             }
