@@ -19,7 +19,7 @@ namespace Objetos
         {
 
             for (int j = 0; j < 4; j++)
-            {
+            {  
                 for (int i = 0; i < 8; i++)
                 {
                     Console.Write(casillas[i].contenido[j]);
