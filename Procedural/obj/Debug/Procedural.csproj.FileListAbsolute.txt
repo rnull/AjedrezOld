@@ -4,3 +4,6 @@ C:\Users\Roberto\UGM\Programas\TableroAjedrez\Procedural\bin\Debug\Procedural.pd
 C:\Users\Roberto\UGM\Programas\TableroAjedrez\Procedural\obj\Debug\Procedural.csprojResolveAssemblyReference.cache
 C:\Users\Roberto\UGM\Programas\TableroAjedrez\Procedural\obj\Debug\Procedural.exe
 C:\Users\Roberto\UGM\Programas\TableroAjedrez\Procedural\obj\Debug\Procedural.pdb
+C:\Users\AztekPride\Documents\Visual Studio 2012\Nueva carpeta\Ajedrez\Procedural\bin\Debug\Procedural.exe.config
+C:\Users\AztekPride\Documents\Visual Studio 2012\Nueva carpeta\Ajedrez\Procedural\obj\Debug\Procedural.exe
+C:\Users\AztekPride\Documents\Visual Studio 2012\Nueva carpeta\Ajedrez\Procedural\obj\Debug\Procedural.pdb
